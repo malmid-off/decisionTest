@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="accountListSelection">
+  <name>accountListSelection</name>
+  <uuid>6ceb3555-9354-4243-8890-389bce24f474</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#513733cd-901d-4495-8c67-a2f70e4d4fc0"/>
+  <targetRuleProject href="../../accountListSelection#a699e1af-95e9-45cc-9dc4-15526a4213e3"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["accountListSelection"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
